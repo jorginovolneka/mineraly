@@ -1,0 +1,2 @@
+# mineraly
+Inventář mineralogické sbírky
